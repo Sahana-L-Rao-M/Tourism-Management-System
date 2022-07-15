@@ -28,6 +28,7 @@ HOW TO RUN THE FILES?
 
   In Windows:
     Open the terminal and in the command-line:
-        >mingw32-make -f make.mk
+    
+        mingw32-make -f make.mk
         
-        >a.exe
+        a.exe
